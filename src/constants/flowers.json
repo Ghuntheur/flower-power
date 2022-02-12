@@ -1,0 +1,380 @@
+[
+  {
+    "name": "Alstromeria - Lis des incas",
+    "months": "Mai,Juin,Juillet,Aout,Septembre",
+    "category": "Fleur Structurante",
+    "picture": "alstromeria_lis_des_incas.jpg"
+  },
+  {
+    "name": "Anthurium - langue de feu",
+    "months": "Janvier,Février,Mars,Avril,Mai,Juillet,Juin,Aout,Septembre,Novembre,Décembre,Octobre",
+    "category": "Fleur Structurante",
+    "picture": "anthurium_langue_de_feu.jpg"
+  },
+  {
+    "name": "Arum - Colombe de la paix",
+    "months": "Avril,Mai,Juin,Juillet,Aout",
+    "category": "Fleur Structurante",
+    "picture": "arum_colombe_de_la_paix.jpg"
+  },
+  {
+    "name": "Strelitzia - Oiseau de paradis",
+    "months": "Juin,Juillet,Aout,Septembre,Octobre",
+    "category": "Fleur Structurante",
+    "picture": "strelitzia_oiseau_de_paradis.jpg"
+  },
+  {
+    "name": "Eucalyptus cinerea",
+    "months": "Janvier,Juillet,Juin,Décembre",
+    "category": "Feuillage",
+    "picture": "eucalyptus_cinerea.jpg"
+  },
+  {
+    "name": "Fleurs de riz",
+    "months": "Juillet,Aout",
+    "category": "Fleur Structurante",
+    "picture": "fleurs_de_riz.jpg"
+  },
+  {
+    "name": "Freesia",
+    "months": "Janvier,Février,Mars,Avril,Mai,Juillet,Juin,Aout",
+    "category": "Fleurette",
+    "picture": "freesia.jpg"
+  },
+  {
+    "name": "Germini",
+    "months": "Aout,Avril,Mai,Juillet,Juin,Septembre",
+    "category": "Fleurette",
+    "picture": "germini.jpg"
+  },
+  {
+    "name": "Iris",
+    "months": "Février,Mars,Avril,Mai,Juin,Septembre,Octobre,Novembre",
+    "category": "Fleurette",
+    "picture": "iris.jpg"
+  },
+  {
+    "name": "Lavande Papillon",
+    "months": "Mai,Aout,Septembre",
+    "category": "Fleur Structurante",
+    "picture": "lavande_papillon.jpg"
+  },
+  {
+    "name": "Muflier",
+    "months": "Mai,Juillet,Juin,Aout,Septembre",
+    "category": "Fleur Structurante",
+    "picture": "muflier.jpg"
+  },
+  {
+    "name": "Oeillet de Poete",
+    "months": "Mai,Juillet,Juin,Septembre",
+    "category": "Fleur Structurante",
+    "picture": "oeillet_de_poete.jpg"
+  },
+  {
+    "name": "Pavot annuel",
+    "months": "Avril,Mai,Juillet,Juin",
+    "category": "Fleur Structurante",
+    "picture": "pavot_annuel.jpg"
+  },
+  {
+    "name": "Pivoine Coral Charme",
+    "months": "Mai,Juin",
+    "category": "Pivoine",
+    "picture": "pivoine_coral_charme.jpg"
+  },
+  {
+    "name": "Pois de Senteur",
+    "months": "Mai,Juillet,Juin,Aout,Septembre",
+    "category": "Fleur Structurante",
+    "picture": "pois_de_senteur.jpg"
+  },
+  {
+    "name": "Scabieuse des prés",
+    "months": "Mai,Juin,Juillet,Aout,Septembre,Octobre",
+    "category": "Fleur Structurante",
+    "picture": "scabieuse_des_prés.jpg"
+  },
+  {
+    "name": "Scille",
+    "months": "Mars,Avril,Mai,Juin,Septembre,Octobre",
+    "category": "Fleurette",
+    "picture": "scille.jpg"
+  },
+  {
+    "name": "Statice",
+    "months": "Juin,Juillet,Aout,Septembre",
+    "category": "Fleur Structurante",
+    "picture": "statice.jpg"
+  },
+  {
+    "name": "Giroflée ravenelle",
+    "months": "Janvier,Février,Mars,Avril,Mai,Juin,Octobre,Novembre,Décembre",
+    "category": "Fleur Structurante",
+    "picture": "giroflée_ravenelle.jpg"
+  },
+  {
+    "name": "Giroflée quarantaine",
+    "months": "Juillet,Juin,Aout",
+    "category": "Fleur Structurante",
+    "picture": "giroflée_quarantaine.jpg"
+  },
+  {
+    "name": "Anémone",
+    "months": "Mars,Avril,Mai,Juin,Juillet,Aout,Septembre,Octobre",
+    "category": "Fleurette",
+    "picture": "anémone.jpg"
+  },
+  {
+    "name": "Hellebore",
+    "months": "Janvier,Février,Mars,Avril,Mai,Novembre,Décembre",
+    "category": "Fleur Structurante",
+    "picture": "hellebore.jpg"
+  },
+  {
+    "name": "Renoncule des fleuristes",
+    "months": "Avril,Mai,Mars,Février,Janvier,Juillet",
+    "category": "Renoncule",
+    "picture": "renoncule_des_fleuristes.jpg"
+  },
+  {
+    "name": "Bouton d\u2019or",
+    "months": "Mai,Juillet,Juin",
+    "category": "Fleurette",
+    "picture": "bouton_d\u2019or.jpg"
+  },
+  {
+    "name": "Pensée",
+    "months": "Janvier,Février,Mars,Avril,Mai,Octobre,Novembre,Décembre",
+    "category": "Fleurette",
+    "picture": "pensée.jpg"
+  },
+  {
+    "name": "Anthemis",
+    "months": "Mai,Juin,Juillet,Aout,Septembre,Octobre",
+    "category": "Fleurette",
+    "picture": "anthemis.jpg"
+  },
+  {
+    "name": "Genet baie",
+    "months": "Mai,Juin,Juillet,Aout",
+    "category": "Fleurette",
+    "picture": "genet_baie.jpg"
+  },
+  {
+    "name": "Pivoine Coral Sunset",
+    "months": "Mai",
+    "category": "Pivoine",
+    "picture": "pivoine_coral_sunset.jpg"
+  },
+  {
+    "name": "Boule de neige (virbunum opulus)",
+    "months": "Avril,Mai,Juin",
+    "category": "Feuillage",
+    "picture": "boule_de_neige_virbunum_opulus.jpg"
+  },
+  {
+    "name": "Spirée",
+    "months": "Mars,Avril,Mai,Juillet,Juin,Aout,Septembre",
+    "category": "Feuillage",
+    "picture": "spirée.jpg"
+  },
+  {
+    "name": "Oranger du Mexique - Choisya",
+    "months": "Mars,Avril,Mai,Juin,Aout,Septembre,Novembre,Décembre",
+    "category": "Feuillage",
+    "picture": "oranger_du_mexique_choisya.jpg"
+  },
+  {
+    "name": "Godetia",
+    "months": "Juillet,Juin,Aout,Septembre",
+    "category": "Fleurette",
+    "picture": "godetia.jpg"
+  },
+  {
+    "name": "Sil\u00e8ne",
+    "months": "Mars,Avril,Juillet,Aout,Septembre,Octobre",
+    "category": "Fleurette",
+    "picture": "sil\u00e8ne.jpg"
+  },
+  {
+    "name": "Achillea millefeuille",
+    "months": "Juillet,Juin,Aout,Septembre,Octobre",
+    "category": "Fleurette",
+    "picture": "achillea_millefeuille.jpg"
+  },
+  {
+    "name": "Astlibe",
+    "months": "Juillet,Juin,Aout",
+    "category": "Fleurette",
+    "picture": "astlibe.jpg"
+  },
+  {
+    "name": "Tamaris",
+    "months": "Avril,Mai,Juin,Juillet,Aout,Septembre",
+    "category": "Fleurette",
+    "picture": "tamaris.jpg"
+  },
+  {
+    "name": "Tournesol",
+    "months": "Juillet,Aout,Septembre,Octobre",
+    "category": "Fleur Structurante",
+    "picture": "tournesol.jpg"
+  },
+  {
+    "name": "Bleuet",
+    "months": "Mai,Juillet,Juin,Aout,Septembre,Octobre",
+    "category": "Fleurette",
+    "picture": "bleuet.jpg"
+  },
+  {
+    "name": "Campanule",
+    "months": "Mai,Juillet,Juin,Aout,Septembre",
+    "category": "Fleurette",
+    "picture": "campanule.jpg"
+  },
+  {
+    "name": "Arbre \u00e0 Perruque",
+    "months": "Mai,Juillet,Juin,Aout,Septembre",
+    "category": "Feuillage",
+    "picture": "arbre_\u00e0_perruque.jpg"
+  },
+  {
+    "name": "Eremurus",
+    "months": "Avril,Mai,Juillet,Juin",
+    "category": "Fleur Structurante",
+    "picture": "eremurus.jpg"
+  },
+  {
+    "name": "Gypsophile",
+    "months": "Mai,Juillet,Juin,Aout,Septembre",
+    "category": "Fleurette",
+    "picture": "gypsophile.jpg"
+  },
+  {
+    "name": "Hortensia",
+    "months": "Juillet,Juin,Aout,Septembre",
+    "category": "Fleur Structurante",
+    "picture": "hortensia.jpg"
+  },
+  {
+    "name": "Lys",
+    "months": "Mai,Juin,Juillet,Aout,Septembre",
+    "category": "Fleur Structurante",
+    "picture": "lys.jpg"
+  },
+  {
+    "name": "Alchemille",
+    "months": "Mai,Juillet,Juin,Aout,Septembre,Octobre",
+    "category": "Feuillage",
+    "picture": "alchemille.jpg"
+  },
+  {
+    "name": "Nielle des blés",
+    "months": "Juin,Juillet,Aout,Septembre",
+    "category": "Fleurette",
+    "picture": "nielle_des_blés.jpg"
+  },
+  {
+    "name": "Rudbeckia",
+    "months": "Juillet,Juin,Aout,Septembre,Octobre",
+    "category": "Fleurette",
+    "picture": "rudbeckia.jpg"
+  },
+  {
+    "name": "Cléome",
+    "months": "Juin,Juillet,Aout,Septembre,Octobre",
+    "category": "Fleur Structurante",
+    "picture": "cléome.jpg"
+  },
+  {
+    "name": "Gaillarde",
+    "months": "Mai,Juin,Juillet,Aout,Septembre,Octobre",
+    "category": "Fleurette",
+    "picture": "gaillarde.jpg"
+  },
+  {
+    "name": "Nigelle de Damas",
+    "months": "Avril,Mai,Juillet,Juin,Aout,Septembre",
+    "category": "Fleur Structurante",
+    "picture": "nigelle_de_damas.jpg"
+  },
+  {
+    "name": "Calla",
+    "months": "Janvier,Février,Mars,Avril,Mai,Juillet,Juin,Aout",
+    "category": "Fleur Structurante",
+    "picture": "calla.jpg"
+  },
+  {
+    "name": "Cymbidium",
+    "months": "Janvier,Février,Mars,Avril,Mai,Juin,Octobre,Novembre,Décembre",
+    "category": "Fleur Structurante",
+    "picture": "cymbidium.jpg"
+  },
+  {
+    "name": "Genet précoce",
+    "months": "Mars,Avril,Mai,Février",
+    "category": "Fleurette",
+    "picture": "genet_précoce.jpg"
+  },
+  {
+    "name": "Mimosa",
+    "months": "Janvier,Février,Mars,Novembre,Décembre",
+    "category": "Feuillage",
+    "picture": "mimosa.jpg"
+  },
+  {
+    "name": "Myosotis",
+    "months": "Avril,Mai,Juin",
+    "category": "Fleurette",
+    "picture": "myosotis.jpg"
+  },
+  {
+    "name": "Oeillet de Nice",
+    "months": "Janvier,Février,Décembre",
+    "category": "Fleur Structurante",
+    "picture": "oeillet_de_nice.jpg"
+  },
+  {
+    "name": "Chrysanth\u00e8me",
+    "months": "Juin,Juillet,Aout,Septembre,Octobre,Novembre",
+    "category": "Fleur Structurante",
+    "picture": "chrysanth\u00e8me.jpg"
+  },
+  {
+    "name": "Tulipe Maureen",
+    "months": "Mai,Juin,Mars,Avril",
+    "category": "Feuillage",
+    "picture": "tulipe_maureen.jpg"
+  },
+  {
+    "name": "Bergenia",
+    "months": "Février,Mars,Avril,Mai,Juin",
+    "category": "Fleurette",
+    "picture": "bergenia.jpg"
+  },
+  {
+    "name": "Buis",
+    "months": "Avril,Mai,Juin,Juillet,Aout,Septembre,Octobre",
+    "category": "Feuillage",
+    "picture": "buis.jpg"
+  },
+  {
+    "name": "Camelia",
+    "months": "Janvier,Février,Mars,Avril,Mai,Septembre,Octobre,Novembre,Décembre",
+    "category": "Feuillage",
+    "picture": "camelia.jpg"
+  },
+  {
+    "name": "Cornus",
+    "months": "Mai,Juillet,Juin",
+    "category": "Feuillage",
+    "picture": "cornus.jpg"
+  },
+  {
+    "name": "Lierre",
+    "months": "Octobre,Novembre",
+    "category": "Feuillage",
+    "picture": "lierre.jpg"
+  }
+]
