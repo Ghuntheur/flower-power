@@ -79,6 +79,8 @@ export default {
 </script>
 
 <style lang="scss">
+@import '../styles/partials/_mixins';
+
 .flower-listing-container {
   > .filters-container {
     display: flex;
@@ -87,6 +89,22 @@ export default {
 
     > * {
       margin: 0 var(--spacing-m);
+
+      &:first-child {
+        margin-left: 0;
+      }
+
+      &:last-child {
+        margin-right: 0;
+      }
+    }
+
+    @include mobile {
+      flex-direction: column;
+
+      > * {
+        margin: var(--spacing-s) 0;
+      }
     }
 
     .input.search {
@@ -97,6 +115,7 @@ export default {
       border-radius: 4px;
       font-size: 0.9rem;
       outline: none;
+      min-height: 32px;
     }
   }
 
