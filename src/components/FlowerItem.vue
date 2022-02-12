@@ -7,11 +7,26 @@
     <div class="infos-container">
       <h3 class="title">{{ name }}</h3>
       <p class="category">{{ category }}</p>
+
+      <div class="flowering-container">
+        <div class="flowering">
+          <span
+            v-for="month in MONTHS"
+            :key="month"
+            :class="{ active: months.includes(MONTHS.indexOf(month)) }"
+            class="flowering-month"
+          >
+            {{ month.slice(0, 1) }}</span
+          >
+        </div>
+      </div>
     </div>
   </div>
 </template>
 
 <script>
+import { MONTHS } from '../constants'
+
 export default {
   name: 'FlowerItem',
   props: {
@@ -26,11 +41,17 @@ export default {
     picture: {
       type: String,
       required: true
+    },
+    months: {
+      type: Array,
+      required: true,
+      validator: array => array.every(item => typeof item === 'number')
     }
   },
   data() {
     return {
-      src: require(`../assets/flowers/${this.picture}`)
+      src: require(`../assets/flowers/${this.picture}`),
+      MONTHS
     }
   }
 }
@@ -47,12 +68,18 @@ export default {
   .media-container {
     width: 100%;
     height: 190px;
+    overflow: hidden;
 
     > img {
       width: 100%;
       height: 100%;
       object-fit: cover;
       object-position: center;
+      transition: transform 80ms ease-in-out;
+
+      &:hover {
+        transform: scale(110%);
+      }
     }
   }
 
@@ -66,6 +93,31 @@ export default {
 
     p {
       margin: var(--spacing-s) 0;
+    }
+
+    .flowering-container {
+      display: flex;
+      justify-content: center;
+      margin-top: var(--spacing-m);
+
+      .flowering {
+        box-sizing: border-box;
+        display: grid;
+        grid-template-columns: repeat(6, 24px);
+        grid-auto-rows: 24px;
+        gap: 1px;
+
+        .flowering-month {
+          display: flex;
+          align-items: center;
+          justify-content: center;
+          border: 1px solid var(--color-text);
+
+          &:not(.active) {
+            opacity: 0.2;
+          }
+        }
+      }
     }
   }
 }

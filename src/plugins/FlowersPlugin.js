@@ -1,31 +1,21 @@
 import flowers from '../constants/flowers'
-
-const MONTHS = [
-  'Janvier',
-  'Février',
-  'Mars',
-  'Avril',
-  'Mai',
-  'Juin',
-  'Juillet',
-  'Aout',
-  'Septembre',
-  'Octobre',
-  'Novembre',
-  'Décembre'
-]
+import { MONTHS } from '../constants'
 
 export default {
   install: Vue => {
-    const parsedData = flowers.map(flower => ({
-      ...flower,
-      months: flower.months
-        .replace(/ /g, '')
-        .split(',')
-        .map(month => MONTHS.indexOf(month))
-        .sort((a, b) => a - b)
-    }))
+    const parsedData = flowers
+      .map(flower => ({
+        ...flower,
+        months: flower.months
+          .replace(/ /g, '')
+          .split(',')
+          .map(month => MONTHS.indexOf(month))
+          .sort((a, b) => a - b)
+      }))
+      .sort((a, b) => a.name.localeCompare(b.name))
 
     Vue.prototype.$_getFlowersData = () => parsedData
+
+    Vue.prototype.$_getMonthFromNumber = number => MONTHS[number]
   }
 }

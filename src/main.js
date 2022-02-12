@@ -4,6 +4,7 @@ import App from './App.vue'
 import FlowersPlugin from './plugins/FlowersPlugin'
 
 import './styles/index.scss'
+import '@riophae/vue-treeselect/dist/vue-treeselect.css'
 
 Vue.config.productionTip = false
 
