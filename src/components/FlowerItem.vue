@@ -11,13 +11,16 @@
       <div class="flowering-container">
         <div class="flowering">
           <span
-            v-for="month in MONTHS"
+            v-for="(month, index) in MONTHS"
             :key="month"
-            :class="{ active: months.includes(MONTHS.indexOf(month)) }"
+            :class="{
+              active: isActive(month),
+              selected: searchMonths.includes(index)
+            }"
             class="flowering-month"
           >
-            {{ month.slice(0, 1) }}</span
-          >
+            {{ month.slice(0, 1) }}
+          </span>
         </div>
       </div>
     </div>
@@ -46,12 +49,21 @@ export default {
       type: Array,
       required: true,
       validator: array => array.every(item => typeof item === 'number')
+    },
+    searchMonths: {
+      type: Array,
+      default: () => []
     }
   },
   data() {
     return {
       src: require(`../assets/flowers/${this.picture}`),
       MONTHS
+    }
+  },
+  methods: {
+    isActive(month) {
+      return this.months.includes(MONTHS.indexOf(month))
     }
   }
 }
@@ -115,6 +127,11 @@ export default {
 
           &:not(.active) {
             opacity: 0.2;
+          }
+
+          &.active.selected {
+            background: var(--color-text);
+            color: var(--color-text-light);
           }
         }
       }

@@ -9,7 +9,7 @@
       />
 
       <Treeselect
-        v-model="searchMonth"
+        v-model="searchMonths"
         :multiple="true"
         :options="treeselectOptions"
         sort-value-by="LEVEL"
