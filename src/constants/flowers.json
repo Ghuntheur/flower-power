@@ -93,7 +93,7 @@
     "name": "Scabieuse des prés",
     "months": "Mai,Juin,Juillet,Aout,Septembre,Octobre",
     "category": "Fleur Structurante",
-    "picture": "scabieuse_des_prés.jpg"
+    "picture": "scabieuse_des_pres.jpg"
   },
   {
     "name": "Scille",
@@ -111,19 +111,19 @@
     "name": "Giroflée ravenelle",
     "months": "Janvier,Février,Mars,Avril,Mai,Juin,Octobre,Novembre,Décembre",
     "category": "Fleur Structurante",
-    "picture": "giroflée_ravenelle.jpg"
+    "picture": "giroflee_ravenelle.jpg"
   },
   {
     "name": "Giroflée quarantaine",
     "months": "Juillet,Juin,Aout",
     "category": "Fleur Structurante",
-    "picture": "giroflée_quarantaine.jpg"
+    "picture": "giroflee_quarantaine.jpg"
   },
   {
     "name": "Anémone",
     "months": "Mars,Avril,Mai,Juin,Juillet,Aout,Septembre,Octobre",
     "category": "Fleurette",
-    "picture": "anémone.jpg"
+    "picture": "anemone.jpg"
   },
   {
     "name": "Hellebore",
@@ -147,7 +147,7 @@
     "name": "Pensée",
     "months": "Janvier,Février,Mars,Avril,Mai,Octobre,Novembre,Décembre",
     "category": "Fleurette",
-    "picture": "pensée.jpg"
+    "picture": "pensee.jpg"
   },
   {
     "name": "Anthemis",
@@ -177,7 +177,7 @@
     "name": "Spirée",
     "months": "Mars,Avril,Mai,Juillet,Juin,Aout,Septembre",
     "category": "Feuillage",
-    "picture": "spirée.jpg"
+    "picture": "spiree.jpg"
   },
   {
     "name": "Oranger du Mexique - Choisya",
@@ -192,10 +192,10 @@
     "picture": "godetia.jpg"
   },
   {
-    "name": "Sil\u00e8ne",
+    "name": "Silène",
     "months": "Mars,Avril,Juillet,Aout,Septembre,Octobre",
     "category": "Fleurette",
-    "picture": "sil\u00e8ne.jpg"
+    "picture": "silene.jpg"
   },
   {
     "name": "Achillea millefeuille",
@@ -234,10 +234,10 @@
     "picture": "campanule.jpg"
   },
   {
-    "name": "Arbre \u00e0 Perruque",
+    "name": "Arbre à Perruque",
     "months": "Mai,Juillet,Juin,Aout,Septembre",
     "category": "Feuillage",
-    "picture": "arbre_\u00e0_perruque.jpg"
+    "picture": "arbre_a_perruque.jpg"
   },
   {
     "name": "Eremurus",
@@ -273,7 +273,7 @@
     "name": "Nielle des blés",
     "months": "Juin,Juillet,Aout,Septembre",
     "category": "Fleurette",
-    "picture": "nielle_des_blés.jpg"
+    "picture": "nielle_des_bles.jpg"
   },
   {
     "name": "Rudbeckia",
@@ -285,7 +285,7 @@
     "name": "Cléome",
     "months": "Juin,Juillet,Aout,Septembre,Octobre",
     "category": "Fleur Structurante",
-    "picture": "cléome.jpg"
+    "picture": "cleome.jpg"
   },
   {
     "name": "Gaillarde",
@@ -315,7 +315,7 @@
     "name": "Genet précoce",
     "months": "Mars,Avril,Mai,Février",
     "category": "Fleurette",
-    "picture": "genet_précoce.jpg"
+    "picture": "genet_precoce.jpg"
   },
   {
     "name": "Mimosa",
@@ -336,10 +336,10 @@
     "picture": "oeillet_de_nice.jpg"
   },
   {
-    "name": "Chrysanth\u00e8me",
+    "name": "Chrysanthème",
     "months": "Juin,Juillet,Aout,Septembre,Octobre,Novembre",
     "category": "Fleur Structurante",
-    "picture": "chrysanth\u00e8me.jpg"
+    "picture": "chrysantheme.jpg"
   },
   {
     "name": "Tulipe Maureen",
